@@ -47,8 +47,8 @@ Aquí están algunas de las tecnologías con las que he trabajado y estoy trabaj
 
 ## 🚀 Proyectos
 Aunque estoy comenzando mi viaje, aquí están dos proyectos que he subido a GitHub:  
-1. [ToDo App](#) *https://github.com/veroDosTres/todo-app*  
-2. [Text-based RPG](#) *https://github.com/veroDosTres/Text-based-RPG*  
+1. ToDo App *https://github.com/veroDosTres/todo-app*  
+2. Text-based RPG *https://github.com/veroDosTres/Text-based-RPG*  
 
 ---
 
