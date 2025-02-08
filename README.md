@@ -28,13 +28,14 @@ Aquí están algunas de las tecnologías con las que he trabajado y estoy trabaj
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src<="https://img.shields.io/badge/php-grey?logo=php" alt="PHP"/>
 </div>
 
 
 ---
 
 ## 📚 Actualmente aprendiendo
-- Angular  
+- PHP  
 - Desarollo de Aplicaciones Web
 ---
 
