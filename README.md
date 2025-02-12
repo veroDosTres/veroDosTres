@@ -4,7 +4,7 @@
 
 # 👋 ¡Hola! Soy **veroDosTres**  
 
-¡Bienvenido a mi perfil de GitHub! 🎉 Me apasiona resolver problemas y estoy en camino de convertirme en una desarrolladora fullstack.
+¡Bienvenido a mi perfil de GitHub! 🎉 Soy una persona a la que le apasiona resolver problemas y estoy en camino de convertirme en una desarrolladora fullstack.
 
 ---
 
