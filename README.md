@@ -50,7 +50,7 @@ Aquí están algunas de las tecnologías con las que he trabajado y estoy trabaj
 ## 🚀 Proyectos
 Aunque estoy comenzando mi viaje, aquí están algunos de los proyecto que he subido a GitHub:  
 1. ToDo App *https://github.com/veroDosTres/todo-app*
-2. La próxima película de Marvel *https://github.com/veroDosTres/next-marvel-movie*
+2. La próxima película de Marvel *https://github.com/veroDosTres/next-marvel-movie-class*
 
 ---
 
