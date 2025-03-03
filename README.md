@@ -55,7 +55,7 @@ Aunque estoy comenzando mi viaje, aquí están algunos de los proyecto que he su
 ---
 
 ## 📫 Cómo contactarme
-- 💌 Email: [veronica.fdezgarrido@gmail.com](mailto:veronica.fdezgarrido@gmail.com)  
+- 💌 Email: [verodostres23@gmail.com](mailto:verodostres23@gmail.com)  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-fernandez-garrido1/)  
 
 ---
