@@ -37,8 +37,7 @@ Aquí están algunas de las tecnologías con las que he trabajado y estoy trabaj
 
 ## 📚 Actualmente aprendiendo
 - Desarollo de Aplicaciones Web  
-- PHP
-- Laravel
+- Ciberseguridad
 ---
 
 ## 🎮 Hobbies y algo curioso sobre mí
